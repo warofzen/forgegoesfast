@@ -1,0 +1,281 @@
+hash-format = "sha256"
+
+[[files]]
+file = "configureddefaults/NoChatReports/NCR-Client.json"
+hash = "edfe78d985fe67dce28104f3d87673e94c89134144451c291ecedcd2e2c3b480"
+
+[[files]]
+file = "configureddefaults/NoChatReports/NCR-Common.json"
+hash = "0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0"
+
+[[files]]
+file = "configureddefaults/NoChatReports/NCR-Encryption.json"
+hash = "0f61ac30bfc78653a30d715f793e30a6a43d6715106706487efd0aea5d43a84c"
+
+[[files]]
+file = "configureddefaults/NoChatReports/NCR-ServerPreferences.json"
+hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
+
+[[files]]
+file = "configureddefaults/NoChatReports/README.md"
+hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
+
+[[files]]
+file = "configureddefaults/connector.json"
+hash = "060e296a5fddce603e50034e3cdb6059c3a0e122d0aae3d85a0523341c82ea22"
+
+[[files]]
+file = "configureddefaults/connectorextras_energy_bridge-common.toml"
+hash = "a4d9eeb8806752eadbaf17d3072d1be28c508943814c5c14e2b85f936406758d"
+
+[[files]]
+file = "configureddefaults/cull-less-leaves.json"
+hash = "6bc92f3695f35c601c2adfa1f51e9f616df379288f2a260fd1f4011c5bad50ee"
+
+[[files]]
+file = "configureddefaults/dynamic_lights_reforged.toml"
+hash = "f6147b74ba0d4f0da7154703623a690f90afceb39bea3217f76e45e7ed08eed4"
+
+[[files]]
+file = "configureddefaults/embeddium++.toml"
+hash = "317cf09dc05663ec96c498296b58bef822687731c06d311557e4fb4693766519"
+
+[[files]]
+file = "configureddefaults/embeddium-fingerprint.json"
+hash = "88a79937da364a844b4e6feca42433585ff1a459b9a8d12ba026877225c36bd6"
+
+[[files]]
+file = "configureddefaults/embeddium-mixins.properties"
+hash = "09ff183e061d93b79514bc171bf9118497578757e7a5c45946039487656e2619"
+
+[[files]]
+file = "configureddefaults/embeddium-options.json"
+hash = "0be93a1a06ffcb6081ff77f80686b5e02dcf3b0c3a59ae431c4f0ec278da5743"
+
+[[files]]
+file = "configureddefaults/enhanced_bes.properties"
+hash = "3c7f8ddaa21028e7f987b2353e4294e7d6870ce3ce3d34fbbaec896a8940b23f"
+
+[[files]]
+file = "configureddefaults/entityculling.json"
+hash = "b8a87894038f8e3fed39687928119da41553ec72fafd3c6b98e39efb62ac6e7d"
+
+[[files]]
+file = "configureddefaults/fabric/indigo-renderer.properties"
+hash = "5b306791bd70cae3b4f5b3cae78e699df59888fe660f2ac3512cc7ca0bcb00eb"
+
+[[files]]
+file = "configureddefaults/fastquit.toml"
+hash = "8c3ed3c40bcd66d188c89503c11886f5767216c43c8c2580174e84ac79df7683"
+
+[[files]]
+file = "configureddefaults/ferritecore-mixin.toml"
+hash = "e3ca99e0f233e3bcf8b6762a85b1139f716bf96644318fe9cb022c270461b287"
+
+[[files]]
+file = "configureddefaults/fml.toml"
+hash = "953c6cb21eb0898aa077589b474b0eec19db6ed1052e5d59fe2a25cba89b4ded"
+
+[[files]]
+file = "configureddefaults/forge-client.toml"
+hash = "887ab56b28b84932643280912fe29bd66e3f2c7e80c31b114925bfe7a670601b"
+
+[[files]]
+file = "configureddefaults/fpsreducer/fpsreducer-client.toml"
+hash = "6faedc86bd114addd4b336fc65b44691e8fd3e5effe8e25efd5d92fc6b9370a6"
+
+[[files]]
+file = "configureddefaults/immediatelyfast.json"
+hash = "874683b7a6c484c2fbc0cd26e9cc70ae00b6aec6cd3dfa95a3dbfd7cd94b62fc"
+
+[[files]]
+file = "configureddefaults/indium-renderer.properties"
+hash = "7fe285d6d080aa7be0a8e0ed9d7811449f2c94733e01b95b7344690c9fc850a8"
+
+[[files]]
+file = "configureddefaults/isxander-main-menu-credits.json"
+hash = "de0a1779ef6a1deda082c46d29580187e57cc97db72dd4a66d052d05b9eb5bee"
+
+[[files]]
+file = "configureddefaults/lithium.properties"
+hash = "b87ee52fdc722ce1497e7ff55fdbd0660fc9df40c8f2f8167465cab55a388f0d"
+
+[[files]]
+file = "configureddefaults/logbegone.toml"
+hash = "7b8be5c08f019875d7f289c01ea9d5c1ace69c20f529cbc2fe5d666d873ca398"
+
+[[files]]
+file = "configureddefaults/modelfix-client.toml"
+hash = "733fe240095c7dab6dcfb69a49e4a28d250e3fa8235f4faa02d4dc98209ed275"
+
+[[files]]
+file = "configureddefaults/modernfix-common.toml"
+hash = "d40a0510a5eaf56e3c48e881348d7d826c5a1f61aa29b69cf0fc33dd96d6fdcd"
+
+[[files]]
+file = "configureddefaults/modernfix-mixins.properties"
+hash = "ddb13aa06368f44fed03d51736fe7827231e11a6a4ce22af6a26a7994bc9aa9f"
+
+[[files]]
+file = "configureddefaults/oculus.properties"
+hash = "2390f277255e4d5b9e80fa755f2fb9cce3e0934a9c67966347fbd10de0da387f"
+
+[[files]]
+file = "configureddefaults/rrls.toml"
+hash = "cdb8f05b7d1f27000afc234dbf868b163ee97707d6daa2d61353111bb864aec7"
+
+[[files]]
+file = "configureddefaults/rrp.properties"
+hash = "030b64e7d90234ee4e0a53cb47cd88268d2ebc4c43ba527c53e16c67f45edafd"
+
+[[files]]
+file = "configureddefaults/saturn-optimizations.toml"
+hash = "212c1c6b7fa0f671de835a6ac4f67bfb20d9b5bce6de698824b1ebe395ff704b"
+
+[[files]]
+file = "configureddefaults/smoothboot.json"
+hash = "0dc746fb3afca8b1f21e6fead005760d25e2c73dc006c9cb932364dd2b5d86ea"
+
+[[files]]
+file = "icon.png"
+hash = "fb43da3f2308b9f77269749a4d55d92069861b896fc94353bfbec371e8a3ad90"
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "38cf4a76862812fefc9b1ae0b8fac02b3f706716f3228eb859b511950273e791"
+metafile = true
+
+[[files]]
+file = "mods/configured-defaults.pw.toml"
+hash = "4f23ec4f00364a26a94516833be54028cefd525e8ac1bc0697e5f6718fc97bac"
+metafile = true
+
+[[files]]
+file = "mods/connector-extras.pw.toml"
+hash = "b1859dc0ec39712165eac3d4dc0dc6b41053b586f2ea088800905069ee34f621"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "eb579d1e274aa9458acce982cd8de74dfaa63ee0bfd824c179694795008de971"
+metafile = true
+
+[[files]]
+file = "mods/cull-less-leaves-reforged.pw.toml"
+hash = "cbf20f8ad7c30691dc237cf21aeafb578d6afb8a135a1d84f4a9e957b9637327"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "1a6d0711f27c72fd535fef344cfda555859fdfc59951c2bd25730308dbb4c8e5"
+metafile = true
+
+[[files]]
+file = "mods/embeddiumplus.pw.toml"
+hash = "d7c62ff4d60d74100610e0f385d35419e3e5c2d8a17816bec7ec98c0a72f0771"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "49b79603523451f9beb1030d89d9e332b15d8e902ecc3f33901c1b25b8d2e8dd"
+metafile = true
+
+[[files]]
+file = "mods/fastquit.pw.toml"
+hash = "88fea54c2bc4c3a0e65ec31a1f96b94ff1792e3362988fe719fa5e9de806f99a"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-screens.pw.toml"
+hash = "ce34a8d15dcff8b7f1328115cabb897e0b5d63ca90822e16318846df2d6f7552"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "b157127a0394f1454fea877faccc69f2cca1c53417073b100e786eee7d7423ae"
+metafile = true
+
+[[files]]
+file = "mods/fps-reducer.pw.toml"
+hash = "148adc903fe1409402b123101158cfb84054ba5b4e4826e017cb3d509d8fb9b2"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "1ef40993b8abff2b77e3f5f59874e6de0348e4c39f6b8e5561fa672a8b1c5c0b"
+metafile = true
+
+[[files]]
+file = "mods/lazurite.pw.toml"
+hash = "03e5d86e69b73997b01943270844390ac341af08b1b91c0994715894db902cc5"
+metafile = true
+
+[[files]]
+file = "mods/log-begone.pw.toml"
+hash = "da7459270716d11fa029fd0367f4b61ec74d3a626c344c1692691406e49f82a7"
+metafile = true
+
+[[files]]
+file = "mods/main-menu-credits.pw.toml"
+hash = "2a79f7fb98b7073c926c6f87a93473f5714cf82a2ace7f344e4e2de4a33e0233"
+metafile = true
+
+[[files]]
+file = "mods/modelfix.pw.toml"
+hash = "23007c9b06315a062ca923911d9fd89066946f6f52df31c06548fa8bc241b55c"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "91819e8cff5122b48bb26ee674a701264c9de18b73bcfb04f274662722f65e40"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "9a3c80bf6eee8234001d2a1602b3e123ac5706af051902e40f24abe317b86e50"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "524acd510387c61c5f3c984e605fae03015434ae756b683d3b45a95951180394"
+metafile = true
+
+[[files]]
+file = "mods/radium.pw.toml"
+hash = "fd2c664fa12ed30ff71cf58cbc9e32265cd92b892640ff9bb415e924f48fb942"
+metafile = true
+
+[[files]]
+file = "mods/redirector.pw.toml"
+hash = "d1f69a6f94a8887e75d29a52279d64e5e8cad60b39f14f20d6eda66c36f51ecf"
+metafile = true
+
+[[files]]
+file = "mods/rrls.pw.toml"
+hash = "5a70811f11bccd6a9b7e52682de06faae2ee5fcc1777ae5e466b1a6a87052f69"
+metafile = true
+
+[[files]]
+file = "mods/saturn.pw.toml"
+hash = "45646ed86d783d82cc2b804466d4aaf06a67e14766928f17134d02558179f3f0"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot-reloaded.pw.toml"
+hash = "e9bf45458454e7ceaa9fc33b271b9f408f27b69d5660652a5f7464fad94bb733"
+metafile = true
+
+[[files]]
+file = "mods/textrues-embeddium-options.pw.toml"
+hash = "dd36b047f5c37c2795e4da43b6fe08e267ea1ec6f5a909790b01483d1613502c"
+metafile = true

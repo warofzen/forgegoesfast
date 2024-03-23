@@ -1,0 +1,13 @@
+name = "Forge Goes Fast"
+author = "warofzen"
+version = "20.1.5"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "637bbed1f44cd3398f1b379d114517741319da73b7c04fcd50fb367b3653822f"
+
+[versions]
+forge = "47.2.21"
+minecraft = "1.20.1"
